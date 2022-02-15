@@ -1,13 +1,9 @@
-# Take a piss
+# Keep.google.com
 # Cook lunch, what am I gonna eat for lunch 
 # Oatmeal
 # Donanim staji until 17:30 (3 hours and 20 mins remaining)
 # Workout meal at 17:30
 # 
-
-###########
-
-# Keep.google.com
 
 # donanim staji project
 # thingspeak test
@@ -20,7 +16,7 @@
 # burakalp.yasar2019@gmail.com for transcript fixation email or 0541 462 0400 message
 # 
 
-# Work on Main_Memory ideas
+# Work on Atomization.
 # Try to figure out how to implement time limit
 # Check vscode mobile version - or keep.google.com
 # Create a template for everyday main_memory 2022_0216.txt 
