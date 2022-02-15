@@ -1,6 +1,4 @@
-# look for June internships and current internships
-# burakalp.yasar@gmail.com internships and event application mail.
-# Write down all the career events to Calender SPRING 2022. Visualization will help you not to forget.
+# But cloths
 #
 
 # Donanim staji report
@@ -8,15 +6,14 @@
 # take more photos
 # 
 
+# look for June internships and current internships
+# burakalp.yasar@gmail.com internships and event application mail.
+# Write down all the career events to Calender SPRING 2022. Visualization will help you not to forget.
+#
+
+
 # Donanim staji esp32 thingspeak micropyhton
 # Django
 # PhraseTranslate_ChromeExtension
 # React js
-#  
-
-# Code a python script that auto commits your main memory on ctrl+sakai
-# ctrl+s starts the script
-# Clicks on the commit message and writes "a"
-# Hits ctrl+enter
-# main memory is automaticly on github
 # 
