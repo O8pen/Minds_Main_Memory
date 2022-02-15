@@ -25,8 +25,8 @@
 
 # Work on Atomization.
 # Try to figure out how to implement time limit
-# Check vscode mobile version
-# Setup your main memory with github and remote repository-------------------------------
+# Check vscode mobile version - or keep.google.com
+# Create a template for everyday main_memory 2022_0216.txt 
 # 
 
 # MARKET
