@@ -6,6 +6,7 @@
 # 
 
 # Setup your main memory with github and remote repository
+# Check vscode mobile version - or keep.google.com
 # 
 
 # Constantly delete/archive the completed tasks, when there is 70 lines of text it is really hard to track things

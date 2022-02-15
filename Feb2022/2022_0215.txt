@@ -22,8 +22,7 @@
 
 # Work on Main_Memory ideas
 # Try to figure out how to implement time limit
-# Check vscode mobile version - or keep.google.com
-# Create a template for everyday main_memory 2022_0216.txt 
+# Create a template main_memory for each day 2022_0216.txt 
 # 
 
 # MARKET
