@@ -31,6 +31,12 @@ HAVING A TEXT EDITOR OPEN IN THE MORNING IS EXTREMELY IMPORTANT.
 # Try to figure out how to implement time limit
 # Check vscode modile version
 # Setup your main memory with github and remote repository
+
+# Code a python script that auto commits your main memory on ctrl+sakai
+# ctrl+s starts the script
+# Clicks on the commit message and writes "a"
+# Hits ctrl+enter
+# main memory is automaticly on github
 # 
 
 # Alwyas have a main memory with you
