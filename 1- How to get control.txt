@@ -12,7 +12,6 @@ HAVING A TEXT EDITOR OPEN IN THE MORNING IS EXTREMELY IMPORTANT.
 # take a shower
 # clean the house
 # 
-pull test
 
 # donanim staji project
 # thingspeak test
