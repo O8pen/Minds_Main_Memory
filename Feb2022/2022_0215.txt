@@ -1,7 +1,3 @@
-# HAVING A TEXT EDITOR OPEN IN THE MORNING IS EXTREMELY IMPORTANT.
-
-# Constantly delete/archive the completed tasks, when there is 70 lines of text it is really hard to track things
-
 # Keep.google.com
 # Cook lunch, what am I gonna eat for lunch 
 # Oatmeal

@@ -1,9 +1,11 @@
-# patotes, cook it-------------------------------
-# take a piss-------------------------------
-# take a shower-------------------------------
-# brush teeth-------------------------------
-# clean the house-------------------------------
+# patotes, cook it
+# take a piss
+# take a shower
+# brush teeth
+# clean the house
 # 
 
-# Setup your main memory with github and remote repository-------------------------------
+# Setup your main memory with github and remote repository
 # 
+
+# Constantly delete/archive the completed tasks, when there is 70 lines of text it is really hard to track things
