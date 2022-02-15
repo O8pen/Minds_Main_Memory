@@ -2,11 +2,10 @@
 
 # Constantly delete/archive the completed tasks, when there is 70 lines of text it is really hard to track things
 
-# patotes, cook it-------------------------------
-# take a piss-------------------------------
-# take a shower-------------------------------
-# brush teeth-------------------------------
-# clean the house-------------------------------
+# Cook lunch, what am I gonna eat for lunch 
+# oatmeal
+# Donanim staji until 17:30 (3 hours and 40 mins remaining)
+# Workout meal at 17:30
 # 
 
 # donanim staji project
@@ -33,7 +32,8 @@
 # MARKET
 # Buy buzdolabi poseti
 # Buy tooth brush container
-#
+# Buy barbunya
+# 
 
 
 ##############
