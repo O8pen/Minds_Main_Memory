@@ -3,8 +3,8 @@
 # Constantly delete/archive the completed tasks, when there is 70 lines of text it is really hard to track things
 
 # Cook lunch, what am I gonna eat for lunch 
-# oatmeal
-# Donanim staji until 17:30 (3 hours and 40 mins remaining)
+# Oatmeal
+# Donanim staji until 17:30 (3 hours and 20 mins remaining)
 # Workout meal at 17:30
 # 
 
