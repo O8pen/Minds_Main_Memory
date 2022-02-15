@@ -1,11 +1,6 @@
-Getting back on track.
-This is the most fundamental thing about productivity. 
-
-I have also used it on University exam prepration.
-
-Wake up, open a text editor and start atomizing your day.
-
 HAVING A TEXT EDITOR OPEN IN THE MORNING IS EXTREMELY IMPORTANT.
+
+# Constantly delete/archive the completed tasks, when there is 70 lines of text it is really hard to track things
 
 # patotes, cook it
 # take a piss
@@ -32,9 +27,8 @@ HAVING A TEXT EDITOR OPEN IN THE MORNING IS EXTREMELY IMPORTANT.
 
 # Work on Atomization.
 # Try to figure out how to implement time limit
-# Check vscode modile version
-# Setup your main memory with github and remote repository
-# Constantly delete/archive the completed tasks, when there is 70 lines of text it is really hard to track things
+# Check vscode mobile version
+XXX# Setup your main memory with github and remote repository
 # 
 
 # Code a python script that auto commits your main memory on ctrl+sakai
