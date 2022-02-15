@@ -30,6 +30,8 @@ HAVING A TEXT EDITOR OPEN IN THE MORNING IS EXTREMELY IMPORTANT.
 # Work on Atomization.
 # Try to figure out how to implement time limit
 # Check vscode modile version
+# Setup your main memory with github and remote repository
+
 # Alwyas have a main memory with you
 # Going out and not having a main memory is dangerous
 #
