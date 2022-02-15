@@ -2,6 +2,7 @@
 
 # Constantly delete/archive the completed tasks, when there is 70 lines of text it is really hard to track things
 
+# Keep.google.com
 # Cook lunch, what am I gonna eat for lunch 
 # Oatmeal
 # Donanim staji until 17:30 (3 hours and 20 mins remaining)
