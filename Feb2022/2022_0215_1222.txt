@@ -2,14 +2,17 @@
 
 # Constantly delete/archive the completed tasks, when there is 70 lines of text it is really hard to track things
 
-# patotes, cook it
-# take a piss
-# take a shower
-# brush teeth
-# clean the house
+# patotes, cook it-------------------------------
+# take a piss-------------------------------
+# take a shower-------------------------------
+# brush teeth-------------------------------
+# clean the house-------------------------------
 # Buy buzdolabi poseti
 # Buy tooth brush container
 #
+
+# burakalp.yasar@gmail.com
+# 
 
 # donanim staji project
 # thingspeak test
@@ -32,20 +35,7 @@
 XXX# Setup your main memory with github and remote repository
 # 
 
-# Always have a main memory with you
-# Going out and not having a main memory is dangerous
-#
 
-# You mind is a single threaded cpu
-# It gets interupted by many tasks
-(You randomly remember you need to check ders kayit, you need to look for internships)
-# But they are not in your memory all the time
-# Once an interuption occurs, you forget the previous task that came to your mind
-# Only way to track all the tasks is writting them down
-# This is your main memory
-# Your mind only has cache with low storage and it gets deleted every time you remember a new task.
-# If you don't have a main memory you can't track the process and you would be lost in time and space.
-# 
 
 
 ##############
@@ -62,6 +52,23 @@ XXX# Setup your main memory with github and remote repository
 # Clicks on the commit message and writes "a"
 # Hits ctrl+enter
 # main memory is automaticly on github
+# 
+
+##############
+
+# Always have a main memory with you
+# Going out and not having a main memory is dangerous
+#
+
+# You mind is a single threaded cpu
+# It gets interupted by many tasks
+(You randomly remember you need to check ders kayit, you need to look for internships)
+# But they are not in your memory all the time
+# Once an interuption occurs, you forget the previous task that came to your mind
+# Only way to track all the tasks is writting them down
+# This is your main memory
+# Your mind only has cache with low storage and it gets deleted every time you remember a new task.
+# If you don't have a main memory you can't track the process and you would be lost in time and space.
 # 
 
 # Restudy the operating systems processes and time schduling
