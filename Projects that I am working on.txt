@@ -1,0 +1,49 @@
+1- Phrase Translate Chrome Extension
+2- Donanim staji, mqtt micropython esp32 windows or thingspeak
+3- Bitirme projesi, Unity ML Agents
+4- Django or Node.js web development
+5- Codeforces coding competition.
+
+
+1- Phrase Translate Chrome Extension TODO
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+			Version0.0.20220212_1539 (Begining of the project)
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+>>>1# Github upload the source code
+2# There is a submit button. I need a text element. I think it is <h1>
+3# Add other buttons, next(<), previous(>), words(80/1055), add/change text(X)
+4# Center those buttons and elements, learn css
+5# Copy paste long text into javascript and use it in that extension
+6# Split that long text with spaces.
+7# Create 3 words long phrases with no rules.
+8# Use keyboards numbers with functionalities (such as copy paste the words to text area)
+9# Give functionality to next(<), previous(>) buttons
+10# Use arrays and use next previous buttons with them
+11# Copy paste a string to text area on google translate
+12# Use listen button on google translate
+13# Change the long text, toggle the add/change text area for long text and submit
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+			Version1.0.date_time (Working prototip)
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+14# Add NLP and more meaningful phrases
+15# Better css styling
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+			Version2.0.date_time (NLP)
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+16# Donation button, bitcoin wallet link could be a option
+17# popup.html and popup.js
+18# contact information
+19# Dedication"This extension is dedicated for all of those people struggled with learing a universial language 
+and felt stuck in their career and life in general because of this issue."
+20# Options.html, font size, color etc.
+21# chrome extension store upload
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+			Version3.0.date_time (Popup, options and Relasing into market)
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+22# Pdf upload, turn it into text
+23# Pdf reader
+24# pdf reader points out the where you are at the book
+25# Toggle the pdf reader
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+			Version4.0.date_time (PDF)
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
