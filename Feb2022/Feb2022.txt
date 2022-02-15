@@ -8,7 +8,9 @@
 # take more photos
 # 
 
-# other projects
+# Donanim staji esp32 thingspeak micropyhton
+# Django
+# PhraseTranslate_ChromeExtension
 # React js
 #  
 
