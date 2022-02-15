@@ -3,6 +3,9 @@
 # take a shower
 # brush teeth
 # clean the house
+# Take a piss
+# Cook lunch, what am I gonna eat for lunch 
+# Oatmeal
 # 
 
 # Setup your main memory with github and remote repository
