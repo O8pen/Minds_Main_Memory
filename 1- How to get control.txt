@@ -39,6 +39,9 @@ HAVING A TEXT EDITOR OPEN IN THE MORNING IS EXTREMELY IMPORTANT.
 # main memory is automaticly on github
 # 
 
+# This message is written from my phone
+# 
+
 # Alwyas have a main memory with you
 # Going out and not having a main memory is dangerous
 #
