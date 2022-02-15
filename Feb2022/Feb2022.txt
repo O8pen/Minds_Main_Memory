@@ -1,0 +1,13 @@
+# look for June internships and current internships
+# 
+
+# other projects
+# React js
+#  
+
+# Code a python script that auto commits your main memory on ctrl+sakai
+# ctrl+s starts the script
+# Clicks on the commit message and writes "a"
+# Hits ctrl+enter
+# main memory is automaticly on github
+# 
