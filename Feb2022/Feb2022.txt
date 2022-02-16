@@ -17,3 +17,7 @@
 # PhraseTranslate_ChromeExtension
 # React js
 # 
+
+# computer engineering documentary
+# watching documentaries makes me motivated to be an engineer
+# 
