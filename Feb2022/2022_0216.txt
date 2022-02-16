@@ -3,11 +3,8 @@
 # Constantly delete/archive the completed tasks, when there is 70 lines of text it is really hard to track things
 
 # market 15 min
-# Buy buzdolabi poseti
 # Buy tooth brush container
-# Buy barbunya
-# buy bread
-# 
+# ovile oil
 
 # patotes, cook it
 # take a piss
