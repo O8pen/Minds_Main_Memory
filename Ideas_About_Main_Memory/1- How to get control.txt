@@ -34,3 +34,6 @@ HAVING A TEXT EDITOR OPEN IN THE MORNING IS EXTREMELY IMPORTANT.
 # 10 lines rule - daily task can't exceed 10 lines
 # Whenever you reach 70 lines or something there is too much text that you don't read your daily tasks anymore
 # 
+
+# [Verb] [Rest of the sentence]
+# Start sentences with verbs. They are ACTIONS
