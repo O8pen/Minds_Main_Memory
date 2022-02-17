@@ -37,3 +37,6 @@ HAVING A TEXT EDITOR OPEN IN THE MORNING IS EXTREMELY IMPORTANT.
 
 # [Verb] [Rest of the sentence]
 # Start sentences with verbs. They are ACTIONS
+
+# 2 hours work, 15 mins rest
+# Set alarms
