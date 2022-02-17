@@ -3,10 +3,10 @@
 #(https://www.youtube.com/watch?v=rCGhxhhHV5c&list=PLw0SimokefZ3uWQoRsyf-gKNSs4Td-0k6&index=23)
 #(https://thingspeak.com/channels/1652691/api_keys)
 
-# thingspeak test
+# Test the subscribe thingspeak with esp8266
 # open every single thingspeak esp32 tutorial
 # try to make 2 esp's communicate
-# 
+
 
 # take shower
 # brush teeth 
