@@ -1,10 +1,6 @@
 
 # Write the rapor
 
-# Test the subscribe thingspeak with esp8266
-# open every single thingspeak esp32 tutorial
-# try to make 2 esp's communicate
-
 
 # take shower
 # brush teeth 
