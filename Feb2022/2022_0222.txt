@@ -1,0 +1,14 @@
+# Yemek sepeti gorusmesi 14:30
+- Part time is, Bu donem okulda bosluklarim var
+- Pazartesi ve Cuma gunleri bos
+- 27 haziran/ 24 temmuz arasinda 4 haftalik staj
+# 
+
+# Google hashcode yarismasi basvur
+
+# Donanim staj yazmaya basla
+# iki cihaz arasindaki baglantiyi kurmaya calis. web server wbscraping
+
+# esp32 kartina ardiuno IDE baglantisini yapmaya calis
+# basarirsan 3208'de kullanabilirsin
+# ve donanim staji icin test edebilirsin.
