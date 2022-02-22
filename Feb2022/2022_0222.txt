@@ -7,7 +7,9 @@
 -github
 -selenium (univera vidoesu hazirla)
 -Who am I - The UI-UX designer and Human-Computer interaction researcher
-
+- Cryptography
+- Embedded systems
+- NLP
 # Google hashcode yarismasi basvur
 
 # Donanim staj yazmaya basla
