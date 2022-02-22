@@ -6,6 +6,7 @@
 -Front-end javascript
 -github
 -selenium (univera vidoesu hazirla)
+-Who am I - The UI-UX designer and Human-Computer interaction researcher
 
 # Google hashcode yarismasi basvur
 
