@@ -2,7 +2,10 @@
 - Part time is, Bu donem okulda bosluklarim var
 - Pazartesi ve Cuma gunleri bos
 - 27 haziran/ 24 temmuz arasinda 4 haftalik staj
-# 
+# cv'de eksik olan teknolojiler
+-Front-end javascript
+-github
+-selenium (univera vidoesu hazirla)
 
 # Google hashcode yarismasi basvur
 
