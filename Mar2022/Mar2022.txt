@@ -1,5 +1,5 @@
 # But cloths
-
+vscode1
 # look for June internships and current internships
 # burakalp.yasar@gmail.com internships and event application mail.
 
@@ -7,5 +7,4 @@
 
 # computer engineering documentary
 
-test from vscode
-githubaaa
+
