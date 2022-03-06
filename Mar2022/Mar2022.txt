@@ -6,5 +6,3 @@
 # Write down all the career events to Calender SPRING 2022. Visualization will help you not to forget.
 
 # computer engineering documentary
-
-github test
