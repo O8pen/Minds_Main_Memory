@@ -1,0 +1,15 @@
+# Donanim stajinin belge islerini bitir.
+# await(Ozlem Hocadan yanit bekleniyor)
+# Ozlem hocayla halledersin
+# Elife hocaya bir sorun olup olmadigini sor
+# Staj komisyonuna sor, butun islemler tamam mi diye
+# sakai'ye yukle
+
+# Carsamba gunu Weexa belgeleri gelebilir, belgelerin imzalama islerine bak
+
+# Cisco Packet Tracer kur, incele
+
+# Bitirmeye basla,
+# await(Unity'i kur, biraz proje ustunde calis)
+# Grup arkadaslarina yaz
+# Nisan basinda rapor var.
